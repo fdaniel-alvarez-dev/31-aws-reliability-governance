@@ -1,4 +1,4 @@
-# 31-aws-automation-blueprint
+# 31-aws-reliability-governance
 
 A reference data platform blueprint with pragmatic governance: quality checks, lineage, access controls, and CI for data assets.
 
