@@ -1,4 +1,4 @@
-# portfolio-lakehouse-guardrails-blueprint-31
+# 31-metrosys-storage-devops-engineer
 
 A reference data platform blueprint with pragmatic governance: quality checks, lineage, access controls, and CI for data assets.
 
